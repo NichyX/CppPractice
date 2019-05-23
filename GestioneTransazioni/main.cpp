@@ -72,7 +72,7 @@ int main(int argc, char* argv[]) {
              ammontare = -1;
              ammontares = "";
              stringstream ss(riga);
-             getline(ss, data, ',');  // https://www.youtube.com/watch?v=_IzYGiuX8QM
+             getline(ss, data, ',');
              getline(ss, descrizione, ',');
              getline(ss, ammontares, ',');
              ammontare = stoi(ammontares);
