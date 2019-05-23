@@ -1,0 +1,5 @@
+01/01/2019,Acquisto del pane,-20
+03/01/2019,Acquisto del vino,-30
+02/01/2019,Accredito dello stipendio,2800
+10/01/2019,Cena al sushi,-50
+06/01/2019,Supermercato,-60
